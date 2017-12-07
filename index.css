@@ -1,4 +1,4 @@
-.container img,video,iframe {
+img,video,iframe {
     display: block;
     height: 100%;
     width: 100%;
